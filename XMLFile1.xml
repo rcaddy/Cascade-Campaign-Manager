@@ -1,0 +1,11 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<DropDown>
+  <LDAP>
+    <OU>1</OU>
+    <OU>2</OU>
+    <OU>3</OU>
+    <OU>4</OU>
+    <OU>5</OU>
+    <OU>6</OU>
+  </LDAP>
+</DropDown>
